@@ -12,12 +12,13 @@ Genera un histograma en función del odómetro y un gráfico de dispersión del 
 - Streamlit
 
 ## Estructura del proyecto
-├── README.md
-├── app.py
-├── vehicles_us.csv
-├── requirements.txt
-└── notebooks/
-    └── EDA.ipynb
+- Sprint_7_Proyecto
+- - ├── README.md  
+- - ├── app.py  
+- - ├── vehicles_us.csv  
+- - ├── requirements.txt  
+- - └── notebooks/  
+- - - └── EDA.ipynb  
 
 ## Instalación y uso
 1. Clona el repositorio
@@ -25,3 +26,4 @@ Genera un histograma en función del odómetro y un gráfico de dispersión del 
 3. Ejecuta la aplicación: `streamlit run app.py`
 
 ## URL de la App
+https://sprint-7-proyecto-mh0o.onrender.com
